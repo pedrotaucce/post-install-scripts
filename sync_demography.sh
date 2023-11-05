@@ -1,7 +1,7 @@
 #!/bin/env bash
 
 #================================================================================#
-# Filename   : sync_demo.sh                         
+# Filename   : sync_demography.sh                         
 # Author     : Pedro Taucce                                
 # Created    : November 4th,2023                           
 # Last edit  : November 4th,2023                           
